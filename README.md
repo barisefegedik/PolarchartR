@@ -8,5 +8,6 @@ The script generates a radar chart highlighting a player's percentile ranks acro
 Displays key defensive attributes (e.g., tackling, passing, heading).
 Uses ggplot2 for visualization.
 Custom styling with a blue color theme.
+
 📜 License
 This project is open-source under the MIT License.
